@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPCB (2011-aug-04)-testing date = Tue 12 Feb 2013 02:12:16 PM PST
+
+BeginCmp
+TimeStamp = /51184015;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118401C;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184033;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184032;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184081;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184080;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118407E;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118407F;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184092;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184091;
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118408F;
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184090;
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184083;
+Reference = D13;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184084;
+Reference = D14;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184086;
+Reference = D15;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184085;
+Reference = D16;
+ValeurCmp = LED;
+IdModule  = LED-5MM-MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51183ECD;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = PIN_ARRAY-8X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51183ED1;
+Reference = P2;
+ValeurCmp = CONN_8;
+IdModule  = PIN_ARRAY-8X1;
+EndCmp
+
+EndListe

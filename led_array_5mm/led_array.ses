@@ -1,0 +1,331 @@
+
+(session led_array.ses
+  (base_design led_array.dsn)
+  (placement
+    (resolution mil 10)
+    (component "LED-5MM-MOD"
+      (place D16 31024 -31024 front 0)
+      (place D15 27874 -31024 front 0)
+      (place D14 24724 -31024 front 0)
+      (place D13 21575 -31024 front 0)
+      (place D12 31024 -27874 front 0)
+      (place D11 27874 -27874 front 0)
+      (place D10 24724 -27874 front 0)
+      (place D9 21575 -27874 front 0)
+      (place D8 31024 -24724 front 0)
+      (place D7 27874 -24724 front 0)
+      (place D6 24724 -24724 front 0)
+      (place D5 21575 -24724 front 0)
+      (place D4 31024 -21575 front 0)
+      (place D3 27874 -21575 front 0)
+      (place D2 24724 -21575 front 0)
+      (place D1 21575 -21575 front 0)
+    )
+    (component "PIN_ARRAY-8X1"
+      (place P1 26299 -29449 back 180)
+      (place P2 26299 -23150 back 180)
+    )
+  )
+  (was_is
+  )
+  (routes 
+    (resolution mil 10)
+    (parser
+      (host_cad "Kicad's PCBNEW")
+      (host_version "(2011-aug-04)-testing")
+    )
+    (library_out 
+      (padstack "Via[0-1]_35:25_mil"
+        (shape
+          (circle Front 350 0 0)
+        )
+        (shape
+          (circle Back 350 0 0)
+        )
+        (attach off)
+      )
+      (padstack "Via[0-1]_35:0_mil"
+        (shape
+          (circle Front 350 0 0)
+        )
+        (shape
+          (circle Back 350 0 0)
+        )
+        (attach off)
+      )
+    )
+    (network_out 
+      (net /10
+        (wire
+          (path Front 200
+            28950 -23149
+            30524 -21575
+          )
+        )
+        (wire
+          (path Front 200
+            28799 -23150
+            28949 -23150
+            28950 -23149
+          )
+        )
+        (wire
+          (path Front 200
+            30524 -24724
+            28950 -23149
+          )
+        )
+        (wire
+          (path Back 200
+            30524 -27874
+            30524 -31024
+          )
+        )
+        (wire
+          (path Back 200
+            30524 -24724
+            30524 -27874
+          )
+        )
+      )
+      (net /12
+        (wire
+          (path Back 200
+            26799 -23150
+            26799 -27283
+            25299 -28783
+            25299 -30949
+            25224 -31024
+          )
+        )
+        (wire
+          (path Front 200
+            22075 -31024
+            22609 -31558
+            24690 -31558
+            25224 -31024
+          )
+        )
+        (wire
+          (path Front 200
+            28374 -31024
+            27739 -31659
+            25859 -31659
+            25224 -31024
+          )
+        )
+        (wire
+          (path Front 200
+            28374 -31024
+            28918 -31568
+            30980 -31568
+            31524 -31024
+          )
+        )
+      )
+      (net /13
+        (wire
+          (path Front 200
+            21915 -22415
+            21075 -21575
+          )
+        )
+        (wire
+          (path Front 200
+            25799 -23150
+            25064 -22415
+            21915 -22415
+          )
+        )
+        (wire
+          (path Front 200
+            21915 -22415
+            21075 -23255
+            21075 -24724
+          )
+        )
+        (wire
+          (path Back 200
+            21075 -27874
+            21075 -31024
+          )
+        )
+        (wire
+          (path Back 200
+            21075 -24724
+            21075 -27874
+          )
+        )
+      )
+      (net /14
+        (wire
+          (path Front 200
+            24225 -23724
+            24799 -23150
+          )
+        )
+        (wire
+          (path Front 200
+            22075 -24724
+            23225 -24724
+            24225 -23724
+          )
+        )
+        (wire
+          (path Front 200
+            24225 -23724
+            25224 -24724
+          )
+        )
+        (wire
+          (path Front 200
+            25224 -24724
+            25758 -25258
+            27840 -25258
+            28374 -24724
+          )
+        )
+        (wire
+          (path Front 200
+            31524 -24724
+            30952 -25296
+            28946 -25296
+            28374 -24724
+          )
+        )
+      )
+      (net /3
+        (wire
+          (path Back 200
+            24799 -29449
+            24799 -30449
+            24224 -31024
+          )
+        )
+        (wire
+          (path Back 200
+            24224 -27874
+            24799 -28449
+            24799 -29449
+          )
+        )
+        (wire
+          (path Back 200
+            24224 -24724
+            24224 -27874
+          )
+        )
+        (wire
+          (path Back 200
+            24224 -21575
+            24299 -21650
+            24299 -24649
+            24224 -24724
+          )
+        )
+      )
+      (net /4
+        (wire
+          (path Back 200
+            27374 -24724
+            27299 -24649
+            27299 -21650
+            27374 -21575
+          )
+        )
+        (wire
+          (path Back 200
+            27374 -27874
+            27374 -24724
+          )
+        )
+        (wire
+          (path Back 200
+            25799 -29449
+            27374 -31024
+          )
+        )
+        (wire
+          (path Back 200
+            25799 -29449
+            27374 -27874
+          )
+        )
+      )
+      (net /8
+        (wire
+          (path Front 200
+            29799 -29299
+            28374 -27874
+          )
+        )
+        (wire
+          (path Front 200
+            29799 -29449
+            29799 -29299
+          )
+        )
+        (wire
+          (path Front 200
+            29799 -29299
+            30099 -29299
+            31524 -27874
+          )
+        )
+        (wire
+          (path Front 200
+            25224 -27874
+            25758 -28408
+            27840 -28408
+            28374 -27874
+          )
+        )
+        (wire
+          (path Front 200
+            22075 -27874
+            22609 -28408
+            24690 -28408
+            25224 -27874
+          )
+        )
+      )
+      (net /9
+        (wire
+          (path Front 200
+            28374 -21575
+            27841 -21042
+            25757 -21042
+            25224 -21575
+          )
+        )
+        (wire
+          (path Front 200
+            25224 -21575
+            24688 -22111
+            22611 -22111
+            22075 -21575
+          )
+        )
+        (wire
+          (path Back 200
+            29799 -23000
+            28374 -21575
+          )
+        )
+        (wire
+          (path Back 200
+            29799 -23150
+            29799 -23000
+          )
+        )
+        (wire
+          (path Back 200
+            29799 -23000
+            30099 -23000
+            31524 -21575
+          )
+        )
+      )
+    )
+  )
+)

@@ -1,0 +1,218 @@
+(pcb /home/wbd/work/iorodeo/products/panels_led_arrays/led_array.dsn
+  (parser
+    (string_quote ")
+    (space_in_quoted_tokens on)
+    (host_cad "Kicad's PCBNEW")
+    (host_version "(2011-aug-04)-testing")
+  )
+  (resolution mil 10)
+  (unit mil)
+  (structure
+    (layer Front
+      (type signal)
+      (property
+        (index 0)
+      )
+    )
+    (layer Back
+      (type signal)
+      (property
+        (index 1)
+      )
+    )
+    (boundary
+      (path pcb 0  3259.8 -3259.8  3259.8 -2000  2000 -2000  2000 -3259.8
+            3259.8 -3259.8)
+    )
+    (via "Via[0-1]_35:25_mil" "Via[0-1]_35:0_mil")
+    (rule
+      (width 16)
+      (clearance 10.1)
+      (clearance 10.1 (type default_smd))
+      (clearance 2.5 (type smd_smd))
+    )
+  )
+  (placement
+    (component PANEL_HEADER_8PIN
+      (place P2 2629.9 -2157.5 back 180)
+      (place P1 2629.9 -3102.4 back 180)
+    )
+    (component "LED-3MM-MOD"
+      (place D48 3181.1 -2863.1 front 15 (PN LED))
+      (place D47 3023.6 -2863.1 front 15 (PN LED))
+      (place D46 2866.1 -2863.1 front 15 (PN LED))
+      (place D45 2708.7 -2863.1 front 15 (PN LED))
+      (place D44 2551.2 -2863.1 front 15 (PN LED))
+      (place D43 2393.7 -2863.1 front 15 (PN LED))
+      (place D42 2236.2 -2863.1 front 15 (PN LED))
+      (place D41 2078.7 -2863.1 front 15 (PN LED))
+      (place D40 3181.1 -2706.2 front 15 (PN LED))
+      (place D39 3023.6 -2706.2 front 15 (PN LED))
+      (place D38 2866.1 -2706.2 front 15 (PN LED))
+      (place D37 2708.7 -2706.2 front 15 (PN LED))
+      (place D36 2551.2 -2706.2 front 15 (PN LED))
+      (place D35 2393.7 -2706.2 front 15 (PN LED))
+      (place D34 2236.2 -2706.2 front 15 (PN LED))
+      (place D49 2078.7 -3019.9 front 15 (PN LED))
+      (place D50 2236.2 -3019.9 front 15 (PN LED))
+      (place D51 2393.7 -3019.9 front 15 (PN LED))
+      (place D52 2551.2 -3019.9 front 15 (PN LED))
+      (place D53 2708.7 -3019.9 front 15 (PN LED))
+      (place D54 2866.1 -3019.9 front 15 (PN LED))
+      (place D55 3023.6 -3019.9 front 15 (PN LED))
+      (place D56 3181.1 -3019.9 front 15 (PN LED))
+      (place D57 2078.7 -3176.8 front 15 (PN LED))
+      (place D58 2236.2 -3176.8 front 15 (PN LED))
+      (place D59 2393.7 -3176.8 front 15 (PN LED))
+      (place D60 2551.2 -3176.8 front 15 (PN LED))
+      (place D61 2708.7 -3176.8 front 15 (PN LED))
+      (place D62 2866.1 -3176.8 front 15 (PN LED))
+      (place D63 3023.6 -3176.8 front 15 (PN LED))
+      (place D64 3181.1 -3176.8 front 15 (PN LED))
+      (place D1 2078.7 -2078.7 front 15 (PN LED))
+      (place D2 2236.2 -2078.7 front 15 (PN LED))
+      (place D3 2393.7 -2078.7 front 15 (PN LED))
+      (place D4 2551.2 -2078.7 front 15 (PN LED))
+      (place D5 2708.7 -2078.7 front 15 (PN LED))
+      (place D6 2866.1 -2078.7 front 15 (PN LED))
+      (place D7 3023.6 -2078.7 front 15 (PN LED))
+      (place D8 3181.1 -2078.7 front 15 (PN LED))
+      (place D9 2078.7 -2235.6 front 15 (PN LED))
+      (place D10 2236.2 -2235.6 front 15 (PN LED))
+      (place D11 2393.7 -2235.6 front 15 (PN LED))
+      (place D12 2551.2 -2235.6 front 15 (PN LED))
+      (place D13 2708.7 -2235.6 front 15 (PN LED))
+      (place D14 2866.1 -2235.6 front 15 (PN LED))
+      (place D15 3023.6 -2235.6 front 15 (PN LED))
+      (place D16 3181.1 -2235.6 front 15 (PN LED))
+      (place D33 2078.7 -2706.2 front 15 (PN LED))
+      (place D32 3181.1 -2549.3 front 15 (PN LED))
+      (place D31 3023.6 -2549.3 front 15 (PN LED))
+      (place D30 2866.1 -2549.3 front 15 (PN LED))
+      (place D29 2708.7 -2549.3 front 15 (PN LED))
+      (place D28 2551.2 -2549.3 front 15 (PN LED))
+      (place D27 2393.7 -2549.3 front 15 (PN LED))
+      (place D26 2236.2 -2549.3 front 15 (PN LED))
+      (place D25 2078.7 -2549.3 front 15 (PN LED))
+      (place D24 3181.1 -2392.5 front 15 (PN LED))
+      (place D23 3023.6 -2392.5 front 15 (PN LED))
+      (place D22 2866.1 -2392.5 front 15 (PN LED))
+      (place D21 2708.7 -2392.5 front 15 (PN LED))
+      (place D20 2551.2 -2392.5 front 15 (PN LED))
+      (place D19 2393.7 -2392.5 front 15 (PN LED))
+      (place D18 2236.2 -2392.5 front 15 (PN LED))
+      (place D17 2078.7 -2392.5 front 15 (PN LED))
+    )
+  )
+  (library
+    (image PANEL_HEADER_8PIN
+      (outline (path signal 15  -385 5  -385 25))
+      (outline (path signal 15  -385 25  375 25))
+      (outline (path signal 15  375 25  380 25))
+      (outline (path signal 15  380 25  380 -25))
+      (outline (path signal 15  380 -25  -385 -25))
+      (outline (path signal 15  -385 -25  -385 0))
+      (outline (path signal 15  -385 0  -385 15))
+      (pin Round[A]Pad_40_mil 4 -50 0)
+      (pin Round[A]Pad_40_mil 3 -150 0)
+      (pin Round[A]Pad_40_mil 2 -250 0)
+      (pin Rect[A]Pad_40x40_mil 1 -350 0)
+      (pin Round[A]Pad_40_mil 5 50 0)
+      (pin Round[A]Pad_40_mil 6 150 0)
+      (pin Round[A]Pad_40_mil 7 250 0)
+      (pin Round[A]Pad_40_mil 8 350 0)
+    )
+    (image "LED-3MM-MOD"
+      (outline (path signal 7.9  47.2 63  47.2 -63))
+      (pin Round[A]Pad_55_mil 1 -50 0)
+      (pin Round[A]Pad_55_mil 2 50 0)
+    )
+    (padstack Round[A]Pad_40_mil
+      (shape (circle Front 40))
+      (shape (circle Back 40))
+      (attach off)
+    )
+    (padstack Round[A]Pad_55_mil
+      (shape (circle Front 55))
+      (shape (circle Back 55))
+      (attach off)
+    )
+    (padstack Rect[A]Pad_40x40_mil
+      (shape (rect Front -20 -20 20 20))
+      (shape (rect Back -20 -20 20 20))
+      (attach off)
+    )
+    (padstack "Via[0-1]_35:25_mil"
+      (shape (circle Front 35))
+      (shape (circle Back 35))
+      (attach off)
+    )
+    (padstack "Via[0-1]_35:0_mil"
+      (shape (circle Front 35))
+      (shape (circle Back 35))
+      (attach off)
+    )
+  )
+  (network
+    (net /1
+      (pins P1-1 D40-2 D39-2 D38-2 D37-2 D36-2 D35-2 D34-2 D33-2)
+    )
+    (net /10
+      (pins P2-7 D44-1 D36-1 D52-1 D60-1 D4-1 D12-1 D28-1 D20-1)
+    )
+    (net /11
+      (pins P2-6 D46-1 D38-1 D54-1 D62-1 D6-1 D14-1 D30-1 D22-1)
+    )
+    (net /12
+      (pins P2-5 D32-2 D31-2 D30-2 D29-2 D28-2 D27-2 D26-2 D25-2)
+    )
+    (net /13
+      (pins P2-4 D41-1 D49-1 D57-1 D1-1 D9-1 D33-1 D25-1 D17-1)
+    )
+    (net /14
+      (pins P2-3 D9-2 D10-2 D11-2 D12-2 D13-2 D14-2 D15-2 D16-2)
+    )
+    (net /15
+      (pins P2-2 D47-1 D39-1 D55-1 D63-1 D7-1 D15-1 D31-1 D23-1)
+    )
+    (net /16
+      (pins P2-1 D48-1 D40-1 D56-1 D64-1 D8-1 D16-1 D32-1 D24-1)
+    )
+    (net /2
+      (pins P1-2 D49-2 D50-2 D51-2 D52-2 D53-2 D54-2 D55-2 D56-2)
+    )
+    (net /3
+      (pins P1-3 D42-1 D34-1 D50-1 D58-1 D2-1 D10-1 D26-1 D18-1)
+    )
+    (net /4
+      (pins P1-4 D43-1 D35-1 D51-1 D59-1 D3-1 D11-1 D27-1 D19-1)
+    )
+    (net /5
+      (pins P1-5 D57-2 D58-2 D59-2 D60-2 D61-2 D62-2 D63-2 D64-2)
+    )
+    (net /6
+      (pins P1-6 D45-1 D37-1 D53-1 D61-1 D5-1 D13-1 D29-1 D21-1)
+    )
+    (net /7
+      (pins P1-7 D48-2 D47-2 D46-2 D45-2 D44-2 D43-2 D42-2 D41-2)
+    )
+    (net /8
+      (pins P1-8 D24-2 D23-2 D22-2 D21-2 D20-2 D19-2 D18-2 D17-2)
+    )
+    (net /9
+      (pins P2-8 D1-2 D2-2 D3-2 D4-2 D5-2 D6-2 D7-2 D8-2)
+    )
+    (class kicad_default "" /1 /10 /11 /12 /13 /14 /15 /16 /2 /3 /4 /5 /6
+      /7 /8 /9
+      (circuit
+        (use_via Via[0-1]_35:25_mil)
+      )
+      (rule
+        (width 16)
+        (clearance 10.1)
+      )
+    )
+  )
+  (wiring
+  )
+)

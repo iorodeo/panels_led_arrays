@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by CvPCB (2011-aug-04)-testing date = Tue 12 Feb 2013 02:52:05 PM PST
+
+BeginCmp
+TimeStamp = /511AC5FF;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = PIN_ARRAY-8X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /511AC5FC;
+Reference = P2;
+ValeurCmp = CONN_8;
+IdModule  = PANEL_HEADER_8PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /511AC602;
+Reference = P3;
+ValeurCmp = CONN_8;
+IdModule  = PIN_ARRAY-8X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /511AC605;
+Reference = P4;
+ValeurCmp = CONN_8;
+IdModule  = PANEL_HEADER_8PIN;
+EndCmp
+
+EndListe
