@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Tue 12 Feb 2013 03:10:59 PM PST
+PCBNEW-BOARD Version 1 date Tue 12 Feb 2013 05:17:46 PM PST
 
 # Created by Pcbnew(2011-aug-04)-testing
 
@@ -21,7 +21,7 @@ $EndGENERAL
 $SHEETDESCR
 Sheet A4 11700 8267
 Title ""
-Date "12 feb 2013"
+Date "13 feb 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -464,7 +464,7 @@ Po 3500 0
 $EndPAD
 $EndMODULE  PANEL_HEADER_8PIN
 $TEXTPCB
-Te "Panel Led Array Adaptor v1.0"
+Te "Led Array Adaptor v1.0"
 Po 26700 26100 400 400 80 0
 De 21 1 0 Normal C
 $EndTEXTPCB

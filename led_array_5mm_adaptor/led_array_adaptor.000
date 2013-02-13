@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Tue 12 Feb 2013 03:09:34 PM PST
+PCBNEW-BOARD Version 1 date Tue 12 Feb 2013 03:10:59 PM PST
 
 # Created by Pcbnew(2011-aug-04)-testing
 
@@ -10,7 +10,7 @@ EnabledLayers 1FFF8001
 Links 16
 NoConn 0
 Di 19924 19924 32674 32674
-Ndraw 4
+Ndraw 5
 Ntrack 16
 Nzone 0
 BoardThickness 630
@@ -463,6 +463,11 @@ Ne 8 "N-000008"
 Po 3500 0
 $EndPAD
 $EndMODULE  PANEL_HEADER_8PIN
+$TEXTPCB
+Te "Panel Led Array Adaptor v1.0"
+Po 26700 26100 400 400 80 0
+De 21 1 0 Normal C
+$EndTEXTPCB
 $DRAWSEGMENT
 Po 0 32598 20000 32598 32598 150
 De 28 0 900 0 0
