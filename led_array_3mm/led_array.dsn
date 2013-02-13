@@ -1,4 +1,4 @@
-(pcb /home/wbd/work/iorodeo/products/panels_led_arrays/led_array.dsn
+(pcb /home/wbd/work/iorodeo/products/panels_led_arrays/led_array_3mm/led_array.dsn
   (parser
     (string_quote ")
     (space_in_quoted_tokens on)
