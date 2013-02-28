@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPCB (2011-aug-04)-testing date = Wed 27 Feb 2013 01:47:11 PM PST
+
+BeginCmp
+TimeStamp = /512E7147;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = panel_header_m;
+EndCmp
+
+BeginCmp
+TimeStamp = /512E7142;
+Reference = P2;
+ValeurCmp = CONN_8;
+IdModule  = panel_header_f;
+EndCmp
+
+EndListe
