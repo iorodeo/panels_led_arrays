@@ -1,5 +1,5 @@
 M48
-;DRILL file {PCBnew (2011-aug-04)-testing} date Tue 12 Feb 2013 02:33:32 PM PST
+;DRILL file {PCBnew (2011-aug-04)-testing} date Thu 14 Mar 2013 05:21:24 PM PDT
 ;FORMAT={2:4/ absolute / inch / suppress trailing zeros}
 FMAT,2
 INCH,LZ

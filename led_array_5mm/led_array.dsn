@@ -33,35 +33,30 @@
     )
   )
   (placement
-    (component "LED-5MM-MOD"
-      (place D16 3102.4 -3102.4 front 0 (PN LED))
-      (place D15 2787.4 -3102.4 front 0 (PN LED))
-      (place D14 2472.4 -3102.4 front 0 (PN LED))
-      (place D13 2157.5 -3102.4 front 0 (PN LED))
-      (place D12 3102.4 -2787.4 front 0 (PN LED))
-      (place D11 2787.4 -2787.4 front 0 (PN LED))
-      (place D10 2472.4 -2787.4 front 0 (PN LED))
-      (place D9 2157.5 -2787.4 front 0 (PN LED))
-      (place D8 3102.4 -2472.4 front 0 (PN LED))
-      (place D7 2787.4 -2472.4 front 0 (PN LED))
-      (place D6 2472.4 -2472.4 front 0 (PN LED))
-      (place D5 2157.5 -2472.4 front 0 (PN LED))
-      (place D4 3102.4 -2157.5 front 0 (PN LED))
-      (place D3 2787.4 -2157.5 front 0 (PN LED))
-      (place D2 2472.4 -2157.5 front 0 (PN LED))
-      (place D1 2157.5 -2157.5 front 0 (PN LED))
-    )
     (component "PIN_ARRAY-8X1"
       (place P1 2629.9 -2944.9 back 180)
       (place P2 2629.9 -2315 back 180)
     )
+    (component "LED-5MM-MOD"
+      (place D1 2157.5 -2157.5 front 0 (PN LED))
+      (place D2 2472.4 -2157.5 front 0 (PN LED))
+      (place D3 2787.4 -2157.5 front 0 (PN LED))
+      (place D4 3102.4 -2157.5 front 0 (PN LED))
+      (place D5 2157.5 -2472.4 front 0 (PN LED))
+      (place D6 2472.4 -2472.4 front 0 (PN LED))
+      (place D7 2787.4 -2472.4 front 0 (PN LED))
+      (place D8 3102.4 -2472.4 front 0 (PN LED))
+      (place D9 2157.5 -2787.4 front 0 (PN LED))
+      (place D10 2472.4 -2787.4 front 0 (PN LED))
+      (place D11 2787.4 -2787.4 front 0 (PN LED))
+      (place D12 3102.4 -2787.4 front 0 (PN LED))
+      (place D13 2157.5 -3102.4 front 0 (PN LED))
+      (place D14 2472.4 -3102.4 front 0 (PN LED))
+      (place D15 2787.4 -3102.4 front 0 (PN LED))
+      (place D16 3102.4 -3102.4 front 0 (PN LED))
+    )
   )
   (library
-    (image "LED-5MM-MOD"
-      (outline (path signal 8  112 -75  112 75))
-      (pin Round[A]Pad_66_mil 1 -50 0)
-      (pin Round[A]Pad_66_mil 2 50 0)
-    )
     (image "PIN_ARRAY-8X1"
       (outline (path signal 10  -395 10  -395 -5))
       (outline (path signal 10  -395 5  -395 45))
@@ -79,6 +74,11 @@
       (pin Round[A]Pad_57_mil 7 250 0)
       (pin Rect[A]Pad_57x57_mil 1 -350 0)
       (pin Round[A]Pad_57_mil 8 350 0)
+    )
+    (image "LED-5MM-MOD"
+      (outline (path signal 8  112 -75  112 75))
+      (pin Round[A]Pad_66_mil 1 -50 0)
+      (pin Round[A]Pad_66_mil 2 50 0)
     )
     (padstack Round[A]Pad_57_mil
       (shape (circle Front 57))
@@ -108,28 +108,28 @@
   )
   (network
     (net /10
-      (pins D16-1 D12-1 D8-1 D4-1 P2-7)
+      (pins P2-7 D4-1 D8-1 D12-1 D16-1)
     )
     (net /12
-      (pins D16-2 D15-2 D14-2 D13-2 P2-5)
+      (pins P2-5 D13-2 D14-2 D15-2 D16-2)
     )
     (net /13
-      (pins D13-1 D9-1 D5-1 D1-1 P2-4)
+      (pins P2-4 D1-1 D5-1 D9-1 D13-1)
     )
     (net /14
-      (pins D8-2 D7-2 D6-2 D5-2 P2-3)
+      (pins P2-3 D5-2 D6-2 D7-2 D8-2)
     )
     (net /3
-      (pins D14-1 D10-1 D6-1 D2-1 P1-3)
+      (pins P1-3 D2-1 D6-1 D10-1 D14-1)
     )
     (net /4
-      (pins D15-1 D11-1 D7-1 D3-1 P1-4)
+      (pins P1-4 D3-1 D7-1 D11-1 D15-1)
     )
     (net /8
-      (pins D12-2 D11-2 D10-2 D9-2 P1-8)
+      (pins P1-8 D9-2 D10-2 D11-2 D12-2)
     )
     (net /9
-      (pins D4-2 D3-2 D2-2 D1-2 P2-8)
+      (pins P2-8 D1-2 D2-2 D3-2 D4-2)
     )
     (class kicad_default "" /10 /12 /13 /14 /3 /4 /8 /9
       (circuit
