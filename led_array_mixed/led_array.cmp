@@ -1,0 +1,465 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 15 Sep 2014 04:28:53 PM PDT
+
+BeginCmp
+TimeStamp = /51184015;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118401C;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184033;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184032;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184040;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118403F;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118403D;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118403E;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184081;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184080;
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118407E;
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118407F;
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118407A;
+Reference = D13;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118407B;
+Reference = D14;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118407D;
+Reference = D15;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118407C;
+Reference = D16;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184092;
+Reference = D17;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184091;
+Reference = D18;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118408F;
+Reference = D19;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184090;
+Reference = D20;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118408B;
+Reference = D21;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118408C;
+Reference = D22;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118408E;
+Reference = D23;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118408D;
+Reference = D24;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184083;
+Reference = D25;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184084;
+Reference = D26;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184086;
+Reference = D27;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184085;
+Reference = D28;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118408A;
+Reference = D29;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184089;
+Reference = D30;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184087;
+Reference = D31;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184088;
+Reference = D32;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840B2;
+Reference = D33;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840B1;
+Reference = D34;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840AF;
+Reference = D35;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840B0;
+Reference = D36;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840AB;
+Reference = D37;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840AC;
+Reference = D38;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840AE;
+Reference = D39;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840AD;
+Reference = D40;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840A3;
+Reference = D41;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840A4;
+Reference = D42;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840A6;
+Reference = D43;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840A5;
+Reference = D44;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840AA;
+Reference = D45;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840A9;
+Reference = D46;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840A7;
+Reference = D47;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840A8;
+Reference = D48;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184093;
+Reference = D49;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184094;
+Reference = D50;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184096;
+Reference = D51;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184095;
+Reference = D52;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118409A;
+Reference = D53;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184099;
+Reference = D54;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184097;
+Reference = D55;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51184098;
+Reference = D56;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840A2;
+Reference = D57;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840A1;
+Reference = D58;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118409F;
+Reference = D59;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /511840A0;
+Reference = D60;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118409B;
+Reference = D61;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118409C;
+Reference = D62;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118409E;
+Reference = D63;
+ValeurCmp = LED;
+IdModule  = LED1411_SHORT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118409D;
+Reference = D64;
+ValeurCmp = LED;
+IdModule  = LED-0805-CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51183ECD;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = SMD_HEADER;
+EndCmp
+
+BeginCmp
+TimeStamp = /51183ED1;
+Reference = P2;
+ValeurCmp = CONN_8;
+IdModule  = SMD_HEADER;
+EndCmp
+
+EndListe
