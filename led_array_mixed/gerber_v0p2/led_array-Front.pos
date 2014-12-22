@@ -1,0 +1,38 @@
+### Module positions - created on Mon 22 Dec 2014 11:35:45 AM PST ###
+### Printed by Pcbnew version pcbnew (2013-jul-07)-stable
+## Unit = inches, Angle = deg.
+## Side : Front
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+D1       LED              LED-0805-CUSTOM     2.0787    -2.0866      90.0    Front
+D3       LED              LED-0805-CUSTOM     2.3937    -2.0866      90.0    Front
+D5       LED              LED-0805-CUSTOM     2.7087    -2.0866      90.0    Front
+D7       LED              LED-0805-CUSTOM     3.0236    -2.0866      90.0    Front
+D10      LED              LED-0805-CUSTOM     2.2362    -2.2356      90.0    Front
+D12      LED              LED-0805-CUSTOM     2.5512    -2.2356      90.0    Front
+D14      LED              LED-0805-CUSTOM     2.8661    -2.2356      90.0    Front
+D16      LED              LED-0805-CUSTOM     3.1811    -2.2356      90.0    Front
+D17      LED              LED-0805-CUSTOM     2.0787    -2.3925      90.0    Front
+D19      LED              LED-0805-CUSTOM     2.3937    -2.3925      90.0    Front
+D21      LED              LED-0805-CUSTOM     2.7087    -2.3925      90.0    Front
+D23      LED              LED-0805-CUSTOM     3.0236    -2.3925      90.0    Front
+D26      LED              LED-0805-CUSTOM     2.2362    -2.5493      90.0    Front
+D28      LED              LED-0805-CUSTOM     2.5512    -2.5493      90.0    Front
+D30      LED              LED-0805-CUSTOM     2.8661    -2.5493      90.0    Front
+D32      LED              LED-0805-CUSTOM     3.1811    -2.5493      90.0    Front
+D33      LED              LED-0805-CUSTOM     2.0787    -2.7062      90.0    Front
+D35      LED              LED-0805-CUSTOM     2.3937    -2.7062      90.0    Front
+D37      LED              LED-0805-CUSTOM     2.7087    -2.7062      90.0    Front
+D39      LED              LED-0805-CUSTOM     3.0236    -2.7062      90.0    Front
+D42      LED              LED-0805-CUSTOM     2.2362    -2.8631      90.0    Front
+D44      LED              LED-0805-CUSTOM     2.5512    -2.8631      90.0    Front
+D46      LED              LED-0805-CUSTOM     2.8661    -2.8631      90.0    Front
+D48      LED              LED-0805-CUSTOM     3.1811    -2.8631      90.0    Front
+D49      LED              LED-0805-CUSTOM     2.0787    -3.0199      90.0    Front
+D51      LED              LED-0805-CUSTOM     2.3937    -3.0199      90.0    Front
+D53      LED              LED-0805-CUSTOM     2.7087    -3.0199      90.0    Front
+D55      LED              LED-0805-CUSTOM     3.0236    -3.0199      90.0    Front
+D58      LED              LED-0805-CUSTOM     2.2362    -3.1689      90.0    Front
+D60      LED              LED-0805-CUSTOM     2.5512    -3.1689      90.0    Front
+D62      LED              LED-0805-CUSTOM     2.8661    -3.1689      90.0    Front
+D64      LED              LED-0805-CUSTOM     3.1811    -3.1689      90.0    Front
+## End

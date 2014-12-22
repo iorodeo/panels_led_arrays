@@ -1,9 +1,9 @@
-(kicad_pcb (version 3) (host pcbnew "(2013-mar-13)-testing")
+(kicad_pcb (version 3) (host pcbnew "(2013-jul-07)-stable")
 
   (general
     (links 128)
     (no_connects 0)
-    (area 50.374674 49.8729 85.280114 82.989421)
+    (area 48.819886 49.8729 83.224226 82.989421)
     (thickness 1.6002)
     (drawings 7)
     (tracks 724)
@@ -13,10 +13,6 @@
   )
 
   (page A4)
-  (title_block
-    (date "12 feb 2013")
-  )
-
   (layers
     (15 Front signal)
     (0 Back signal)
@@ -87,7 +83,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory gerber_v0p1/))
+      (outputdirectory gerber_v0p2/))
   )
 
   (net 0 "")
@@ -1894,14 +1890,14 @@
     )
   )
 
-  (gr_text "Mixed UV/Green \n8x8 LED Array V0.1\nwww.iorodeo.com" (at 65.1 66.8 90) (layer B.SilkS)
+  (gr_text "Mixed UV/Green \n8x8 LED Array V0.1\nwww.iorodeo.com" (at 69 66 270) (layer B.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)) (justify mirror))
   )
-  (gr_text Bottom (at 81.1 67.1 90) (layer B.SilkS)
+  (gr_text Bottom (at 53 67 270) (layer B.SilkS)
     (effects (font (size 2.032 1.524) (thickness 0.3048)) (justify mirror))
   )
-  (gr_text Top (at 52.45 66.35 90) (layer B.SilkS)
-    (effects (font (thickness 0.2032)) (justify mirror))
+  (gr_text Top (at 81 68 270) (layer B.SilkS)
+    (effects (font (size 1.524 1.524) (thickness 0.2032)) (justify mirror))
   )
   (gr_line (start 50.8 50.8) (end 50.8 82.79892) (angle 90) (layer Edge.Cuts) (width 0.381))
   (gr_line (start 82.79892 50.8) (end 82.79892 82.79892) (angle 90) (layer Edge.Cuts) (width 0.381))
