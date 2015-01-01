@@ -1,6 +1,8 @@
-### Module positions - created on Mon 22 Dec 2014 11:35:45 AM PST ###
+### Module positions - created on Wed 31 Dec 2014 04:23:48 PM PST ###
 ### Printed by Pcbnew version pcbnew (2013-jul-07)-stable
 ## Unit = inches, Angle = deg.
 ## Side : Front
 # Ref    Val                  Package         PosX       PosY        Rot     Side
+P1       CONN_8           SMD_HEADER          2.6299    -3.1024       0.0    Back
+P2       CONN_8           SMD_HEADER          2.6299    -2.1575       0.0    Back
 ## End
